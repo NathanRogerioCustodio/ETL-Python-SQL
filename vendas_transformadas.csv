@@ -1,0 +1,6 @@
+id_venda,produto,quantidade,preco_unitario,data,valor_total,data_formatada,total_vendas
+1,teste A,10,5.5,2024-11-01,55.0,01/11/2024,55.0
+2,teste B,5,7.0,2024-11-01,35.0,01/11/2024,35.0
+3,teste C,8,10.7,2024-11-02,85.6,02/11/2024,85.6
+4,teste D,9,9.7,2024-11-03,87.3,03/11/2024,87.3
+5,teste E,7,4.5,2024-11-04,31.5,04/11/2024,31.5
